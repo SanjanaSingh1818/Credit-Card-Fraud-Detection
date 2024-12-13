@@ -59,8 +59,7 @@ The dataset used is the [Credit Card Fraud Detection Dataset](https://www.kaggle
 - Decision Tree Accuracy: 0.996892665285629
 - Random Forest Accuracy: 0.9985253326779256
 - SVM Accuracy: 0.9985253326779256
-  
-```
+
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
